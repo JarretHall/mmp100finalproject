@@ -1,0 +1,5 @@
+body{background-color: #006400;}
+h1{color: #00FFFF; font-family: JetBrains Mono; font-size: 40px; font-style: italic;}
+p{color: #00FFFF; font-family: JetBrains Mono; font-size: 40px; font-style: italic;}
+a{color: #00FFFF; font-family: JetBrains Mono; font-size: 30px;font-style: italic;}
+a:hover{color: white;}
