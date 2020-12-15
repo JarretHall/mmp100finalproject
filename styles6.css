@@ -1,0 +1,22 @@
+body{background-color: #0ABFE3;}
+h1{color: #800303; font-family: : Garamond; font-size: 40px; font-style: italic;}
+p{color: #800303; font-family: Garamond; font-size: 40px; font-style: italic;}
+a{color: #800303; font-family: Garamond; font-size: 30px; text-decoration: none;}
+a:hover{color: black;}
+
+
+
+
+.iframe-container{
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; 
+  height: 0;
+}
+.iframe-container iframe{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
